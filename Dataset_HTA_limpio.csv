@@ -1,0 +1,138 @@
+ta_sist,ta_dias,edad,sexo,sexo_bin,talla_cm,peso_kg,imc,diametro_abdominal_cm,Hipertension_años_de_evolucion,hipertension,evolucion,diagn_obs,tratamiento,Tratamiento,Comorbilidades,diabetes_mellitus,enf_renal_cron,"otros _(cancer,sangre,tiroides,higado)",Tabaquismo,tabaquismo,Alcoholismo,alcoholismo,Toxicomanias,toxicomanias,Actividad_fisica,act_fis,Trigliceridos,Colesterol_total,Glucosa_mg/dl,Creatinina
+126,70,49,M,0,170,96,33.2,109,Negada,0,0,,0,,Negadas,0,0,0,"Positivo, 3 años sin fumar",1,"Positivo, ocasaisonal",1,Negadas,0,,,,,,
+145,97,77,M,0,172,78,26.4,79,Negada,0,0,,0,,Negadas,0,0,0,"Positivo, 10 años sin fumar",1,"Positivo, ocasional",1,Negadas,0,Negada,0,,,,
+186,96,64,M,0,167,77.5,27.8,100,"Positiva, 15 años de evolución",1,15, 15 años de evolución,1,Losartán y Amlodipino,Diabetes,1,0,0,Negado ,0,Negado ,0,Negadas ,0,"Positivo, caminata",1,,,266.1,
+125,70,90,M,0,158,96,38.5,108,Negada ,0,0,,0,,Negadas ,0,0,0,Positivo,1,"Positivo, ocasional",1,Negadas ,0,"Positivo, caminata",1,82,168,86.6,1.34
+131,89,56,F,1,154,66,27.8,86,Negada ,0,0,,0,,Negadas ,0,0,0,Negado ,0,Negado ,0,Negadas ,0,"Positivo, caminata",1,347,197,113.2,
+87,52,29,F,1,150,57,25.3,80,Negada ,0,0,,0,,Negadas ,0,0,0,Positivo,1,"Positivo, ocasional",1,Negadas ,0,Negada ,0,181,217,,
+137,91,44,M,0,158,96,38.5,108,Negada ,0,0,,0,,Negadas ,0,0,0,Positivo,1,"Positivo, ocasional",1,Negadas ,0,"Positiva, fútbol",1,,,109.7,
+121,69,59,F,1,145,84,40,103,Negada ,0,0,,0,,Negadas ,0,0,0,"Positivo, ocasional",1,"Positivo, ocasional",1,Negadas ,0,Negada ,0,,,,
+124,86,50,M,0,167,70,25.1,83,"Positiva, 8 años de evolución",1,8, 8 años de evolución,1,Losartán,Diabetes,1,0,0,Positivo,1,"Positivo, ocasional",1,Negadas ,0,Negada ,0,195,133,171.9,1.04
+131,89,59,F,1,150,49.5,22,87,"Positiva, 5 años de evolución",1,5, 5 años de evolución,0,,Negadas ,0,0,0,Negado ,0,Negado ,0,Negadas ,0,Negada ,0,158,176,119.5,
+112,97,73,F,1,147,116.5,53.9,124,"Positiva, 10 años de evolución",1,10, 10 años de evolución,1,Losartán,Negadas ,0,0,0,Negado ,0,Negado ,0,Negadas ,0,"Positivo, cardio",1,,,,1.06
+118,80,49,F,1,152,80,34.6,99,"Positiva, 8 años de evolución",1,8, 8 años de evolución,1,Losartán,Diabetes,1,0,0,Negado ,0,"Positivo, ocasional",1,Negadas ,0,"Positivo, caminata",1,142,270,119.1,0.74
+114,74,53,F,1,154,42,17.7,63,"Positiva, 24 años de evolución",1,24, 24 años de evolución,1,Losartán,Negadas ,0,0,0,Negado ,0,"Positivo, ocasional",1,Negadas ,0,"Positivo, caminata",1,,,,
+141,77,64,F,1,152,66,28.6,102,Negada,0,,,0,,ERC,0,1,0,Negado ,0,Negado ,0,Negado ,0,Negada,0,253,295,104.8,0.97
+118,80,74,M,0,150,76.5,34,95,Negada,0,,,0,,ERC,0,1,0,Negado ,0,Positivo,1,Negado ,0,Negada,0,,,89.5,
+102,69,33,F,1,150,79,35.1,113,Negada,0,,,0,,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,224,171,105,
+95,68,38,M,0,170,98,33.9,108,Negada,0,,,0,,Negadas,0,0,0,"Positivo, ocasional",1,"Positivo, ocasional",1,Positivas,1,"Positivo, Fútbol",1,221,2.34,,
+101,70,66,M,0,168,88,31.2,103,"Positivo, evolución desconocida.",1,99,desconocida,1,Enalapril,Negadas,0,0,0,"Positivo, ocasional",1,"Positivo, ocasional",1,Negadas,0,"Positiva, caminata",1,157,178,119.6,1.16
+129,82,25,F,1,156,98,40.3,134,Negada,0,,,0,,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,,,80.2,
+118,80,55,M,0,158,76,30.4,102,En diagnóstico,2,,,0,Ninguno,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,112,150,98.5,1.19
+142,93,36,M,0,195,140,36.8,148,Negada,0,,,0,,Negadas,0,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,146,187,96.7,
+164,94,63,M,0,167,78,28,107,"Positivo, evolución desconocida.",1,99,desconocida,1,Enalaprilil,Diabetes,1,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,257,205,204,1.08
+126,74,58,M,0,167,70,25.1,78,Negada,0,,,0,,Cancer,0,0,1,"Positivo, consumo elevado",1,Negado,0,Negadas,0,"Positiva, caminata",1,251,134,111.9,1.02
+161,86,69,F,1,143,62,30.3,110,"Positivo, evolución desconocida.",1,99,desconocida,1,Losartán,DM,1,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,158,244,91.4,0.69
+104,68,18,F,1,159,84,33.2,98,Negada ,0,,,0,,Negadas,0,0,0,Negado,0,Positivo ocasional,1,Negadas,0,Negada,0,98,100,89.8,0.84
+108,82,46,F,1,163,71.2,26.8,87,Hipotensión,0,,,0,,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,"Positiva, cardio",1,,,,
+134,90,44,M,0,160,72,28.1,93,Negada ,0,,,0,,Diabetes,1,0,0,Negado,0,Positivo ocasional,1,Negadas,0,"Positiva, Basquetball",1,,,,
+115,76,20,F,1,159,83,32.8,110,Negada ,0,,,0,,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,"Positivo, Fútbol",1,,,,
+148,88,66,M,0,167,82,29.4,100,En diagnóstico,2,,,0,Ninguno,Diabetes,1,0,0,Negado,0,Positivo ocasional,1,Negadas,0,Negada,0,343,,216.4,0.84
+127,88,58,M,0,163,94,35.4,108,"Positivo, evolución desconocida.",1,99,desconocida,1,Amlodipino/ Hidroclorotiazida,Negadas,0,0,0,"Positivo, ocasional",1,"Positivo, ocasional",1,Negadas,0,Negada,0,,,95.9,1.17
+125,76,64,F,1,147,61,28.2,89,"Positivo, evolución desconocida.",1,99,desconocida,1,Eanalapril/ Clortalidona,Diabetes,1,0,0,"Positivo, ocasional",1,"Positivo, ocasional",1,Negadas,0,"Positiva, estiramientos en casa",1,,,131.7,
+117,80,51,M,0,160,66,25.8,94,"Positivo, evolución desconocida.",1,99,desconocida,1,Losartán/ Hidroclorotiazida,Negadas,0,0,0,"Positivo, ocasional",1,"Positivo, ocasional",1,Negadas,0,"Positiva, atletismo",1,85,155,94.3,0.91
+121,80,54,M,0,172,93,31.4,104,Negada ,0,,,0,,Negadas,0,0,0,"Positivo, ocasional",1,"Positivo, ocasional",1,Negadas,0,Negada,0,,,,
+153,90,67,F,1,154,88,37.1,103,"Positivo, evolución desconocida.",1,99,desconocida,1,Losartán,Diabetes,1,0,0,Negado,0,Negado,0,Negadas,0,"Positiva, caminata",1,144,158,108.9,
+137,84,47,M,0,166,79,28.7,103,Negada,0,,,0,,Diabetes,1,0,0,Negado ,0,"Positivo, ocasional",1,Negadas,0,"Positiva, fútbol",1,175,190,87.5,1.05
+145,80,58,F,1,179,61.5,19.2,102,"Positiva, evolución desconocida",1,99,desconocida,1,Enalapril/ Amlodipino,Diabetes,1,0,0,Negado ,0,Negado ,0,Negadas,0,Negada,0,222,272,117.9,1
+110,80,33,F,1,162,89,33.9,101,Hipertensión reactiva,1,,,0,Ninguno,Diabetes,1,0,0,Negado ,0,Negado ,0,Negadas,0,"Positiva, caminata",1,468,146,98.2,0.77
+124,82,56,F,1,149,54,24.3,112,"Positiva, evolución desconocida",1,99,desconocida,1,Amlodipino,Negadas,0,0,0,Negado ,0,Negado ,0,Negadas,0,Negada,0,242,269,,0.74
+184,107,60,M,0,160,93,36.3,111,"Positiva, evolución desconocida",1,99,desconocida,1,Enalarpil,Negadas,0,0,0,Positivo en juventud,1,Positivo en juventud,1,Negadas,0,Negada,0,252,267,90.9,0.91
+144,89,55,F,1,157,75,30.4,105,"Positiva, evolución desconocida",1,99,desconocida,1,Enalarpil,Diabetes,1,0,0,Negado ,0,Positivo en juventud,1,Negadas,0,Negada,0,,,141.3,
+121,80,46,F,1,153,59,25.2,73,"Positiva, evolución desconocida",1,99,desconocida,1,Captopril,Negadas,0,0,0,Negado ,0,Negado ,0,Negadas,0,Negada,0,,,,
+104,70,49,M,0,150,44,19.6,84,Negada,0,,,0,,Diabetes,1,0,0,Negado ,0,Positivo en juventud,1,Negadas,0,Negada,0,150,,264,0.85
+103,71,46,F,1,155,65,27.1,94,Negada,0,,,0,,Negadas,0,0,0,Negado ,0,Positivo ocasional,1,Negadas,0,Negada,0,,,,
+176,122,67,M,0,160,59,23,93,"Positiva, evolución desconocida",1,99,desconocida,1,Enalapril/ Amlodipino,Negadas,0,0,0,Negado ,0,Positivo ocasional,1,Negadas,0,Negada,0,223,192,,1.2
+156,85,48,F,1,155,91,37.9,128,Negada,0,,,0,,Diabetes,1,0,0,Negado ,0,Negado ,0,Negadas,0,"Positiva, caminata cada tercer día",1,,,138.4,
+136,83,61,F,1,155,72,30,107,"Positiva, evolución desconocida",1,99,desconocida,1,Metorpolol,Diabetes,1,0,0,Negado ,0,Sin consumo hace 33 años,0,Negadas,0,Negada,0,540,238,,
+96,43,55,M,0,153,70,29.9,107,Negada,0,,,0,,Diabetes,1,0,0,Positivo ocasional,1,Sin consumo hace 30 años,0,Negadas,0,"Ocasional, sin especificar",1,,,,
+128,90,65,F,1,149,60,27,101,"Positiva, evolución desconocida",1,99,desconocida,1,Enalarpil,Diabetes,1,0,0,Negado ,0,Negado ,0,Negado ,0,Negado ,0,126,,127,
+139,83,66,F,1,157,73,29.6,102,"Positiva, evolución desconocida",1,99,desconocida,1,Losartán/ Hidroclorotiazida,Negadas,0,0,0,Negado ,0,Positivo ocasional,1,Negado ,0,Negada,0,126,263,110.4,
+149,82,49,F,1,155,89,37,112,En diagnóstico,2,,,0,Ninguno,Diabetes,1,0,0,Negado ,0,Positivo ocasional,1,Negado ,0,Negada,0,214,204,90.1,0.87
+123,79,64,M,0,170,85,29.4,118,Negada,0,,,0,,Negadas,0,0,0,Positivo ocasional,1,Positivo ocasional,1,Negado ,0,Negada,0,,,89.6,
+89,50,54,F,1,148,86,39.3,114,"Positiva, evolución desconocida",1,99,desconocida,1,Losartán,Negadas,0,0,0,Positivo en juventud,1,Positivo en juventud,1,Negado ,0,"Positiva, caminata",1,204,215,102.2,0.77
+117,91,25,F,1,166,68,24.7,74,Negada,0,,,0,,Trombocitopenica,0,0,1,Positivo ocasional,1,Positivo ocasional,1,Positivas,1,Negada,0,,,,
+176,112,60,M,0,164,94,34.9,125,"Positiva, evolución desconocida",1,99,desconocida,1,Losartán,Diabetes,1,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,"Negada, por traumatismo",0,210,192,211.7,
+131,85,45,F,1,157,79,32,103,"Positiva, evolución desconocida",1,99,desconocida,1,Enalapril/ Amlodipino,Diabetes,1,0,0,Negado,0,Negado,0,Negadas,0,"Positiva, caminata",1,274,246,,0.77
+160,95,68,F,1,145,52,24.7,91,"Positiva, evolución desconocida",1,99,desconocida,1,Losartán,Diabetes,1,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,"Positiva, saltar cuerda, estiramientos",1,292,240,122.1,
+146,104,48,M,0,174,86,28.4,119,Negada,0,,,0,,Diabetes,1,0,0,Positivo,1,Sin consumo hace 3 años,0,Negadas,0,"Positiva, fútbol",1,270,,,
+137,96,73,F,1,153,62,26.5,104,Negada,0,,,0,,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,101,180,89.5,2.8
+75,50,50,M,0,168,72,25.5,96,"Positiva, evolución desconocida",1,99,desconocida,1,Losartán,Diabetes,1,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,197,238,122,1.31
+139,95,56,M,0,174,75,24.8,92,Negada,0,,,0,,Cirugia,0,0,0,"Positivo, ocasional",1,Sin consumo hace 40 años,0,Negadas,0,Negada,0,138,151,104.1,0.97
+150,96,61,F,1,167,77,27.6,97,"Positiva, evolución desconocida",1,99,desconocida,1,Losartán,Tiroides,0,0,1,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,357,240,169.4,
+118,82,29,F,1,160,82,32,113,Negada,0,,,0,,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,,,78.7,0.81
+134,83,59,M,0,172,72,24.3,91,Negada,0,,,0,,Diabetes,1,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,293,198,96.5,0.99
+155,97,48,F,1,152,85,36.8,119,"Positiva, evolución desconocida",1,99,desconocida,1,Captopril,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,150,211,117.4,0.87
+118,87,50,F,1,150,60,26.7,108,"Positiva, evolución desconocida",1,99,desconocida,1,Enalapril,Hígado graso,0,0,1,"Positivo, ocasional",1,"Positivo, ocasional",1,Negadas,0,"Positiva, caminata",1,,,,
+151,73,68,F,1,145,60,28.5,101,"Positiva, evolución desconocida",1,99,desconocida,1,Metoprolol/ Nifedipino ,Diabetes,1,0,0,Negado,0,Negado,0,Negadas,0,"Positiva, caminata",1,72,169,111.4,0.96
+102,53,78,F,1,149,98,44.1,96,"Positiva, evolución desconocida",1,99,desconocida,1,Losartán,IRC,0,1,0,Negado,0,Positivo,1,Negadas,0,"Positiva, caminata y fútbol",1,249,238,100.2,2.62
+136,89,39,F,1,154,77,32.5,93,"Positiva, evolución desconocida",1,99,desconocida,1,Enalapril,Negadas,0,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,"Positiva, ejercicios de cuerdas",1,105,142,88.7,
+114,62,62,M,0,172,79,26.7,98,Negada,0,,,0,,Negadas,0,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,"Positiva, caminata",1,204,180,83.6,1.19
+116,86,43,M,0,160,,,99,Negada,0,,,0,,Negadas,0,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,205,221,97.2,
+128,87,65,M,0,157,70,28.4,99,"Positiva, evolución desconocida",1,99,desconocida,1,Losartán,Negadas,0,0,0,"Positivo, ocasional",1,"Positivo, ocasional",1,Negadas,0,"Positiva, caminata",1,195,214,102.8,1.05
+125,82,48,M,0,169,98,34.3,125,Negada,0,,,0,,Diabetes,1,0,0,"Positivo, a razón sin especificar",1,"Positivo, ocasional",1,Positivas,1,Negada,0,644,189,113.5,1.2
+113,84,45,F,1,165,85,31.2,115,"Positiva, evolución desconocida",1,99,desconocida,1,Enalapril,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,,,95.1,
+148,87,45,F,1,150,58,25.8,87,Negada,0,,,0,,Diabetes,1,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,254,218,314.3,0.71
+113,79,44,F,1,154,66,27.8,95,Negada,0,,,0,,Diabetes,1,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,,,,
+143,78,79,F,1,153,71,30.3,98,"Positiva, evolución desconocida",1,99,desconocida,1,Telmisartán,IRC,0,1,0,Negado,0,Negado,0,Negadas,0,"Positiva, aerobics",1,,,,1.25
+169,103,59,M,0,163,67,25.2,91,Negada,0,,,0,,Diabetes,1,0,0,"Positivo, ocasional",1,"Positivo, ocasional",1,Negadas,0,Negada,0,325,200,127.7,
+142,74,69,M,0,177,78,24.9,99,Positiva,1,,,0,Sin tratamiento,Diabetes,1,0,0,"Positivo, ocasional",1,"Positivo, ocasional",1,Negadas,0,Negada,0,335,261,98.3,
+156,84,58,M,0,162,62,23.6,90,Negada,0,,,0,,Diabetes,1,0,0,"Positivo, ocasional",1,"Positivo, ocasional",1,Negadas,0,"Positiva, caminata y levantamiento de pesas",1,82,178,158.8,0.98
+94,71,63,M,0,168,82,29.1,89,Negada,0,,,0,,Negadas,0,0,0,"Positivo, ocasional",1,Sin consumo hace 25 años,0,Positivas,1,"Positivo, atletismo",1,,,,
+118,79,70,M,0,168,74,26.2,105,Negada,0,,,0,,Diabetes,1,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,"Positivo, sin especificar",1,,,163,
+110,70,60,M,0,170,98,33.9,115,"Positiva, 15 años de evolución",1,15, 15 años de evolución,1,Losartán/ Amlodipino,Diabetes,1,0,0,Negado,0,Sin consumo hace 20 años,0,Negadas,0,"Positivo, caminata",1,324,116,153.9,1.5
+124,84,62,M,0,,85,,109,"Positiva, evolución desconocida",0,99,desconocida,1,Losartán,Negadas,0,0,0,Positivo,1,Negado,0,Negadas,0,"Positivo, caminata",1,257,187,251.7,1.14
+197,103,70,M,0,,,,,"Positivo, 10 años de evolución",1,10, 10 años de evolución,1,Losartán,Diabetes,1,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,201,162,125.5,1.52
+117,80,47,F,1,157,70,28.4,90,Negada,0,,,0,,Negadas,0,0,0,"Positivo, sin especificaciones",1,"Positivo, sin especificaciones",1,Positivas,1,Negada,0,,,,
+125,83,42,M,0,168,90,31.9,107,Negada,0,,,0,,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,"Positiva, atletismo",1,,,89.2,
+126,93,50,F,1,153,58,24.8,92,Negada,0,,,0,,Negadas,0,0,0,"Positivo, ocasional",1,Negado,0,Negadas,0,Negada,0,,,,0.82
+154,92,62,M,0,171,90,30.8,113,"Positivo, 15 años de evolución",1,15, 15 años de evolución,1,Amlodipino/ Valsartán,Diabetes,1,0,0,"Positivo, sin especificaciones",1,"Positivo, sin especificaciones",1,Positivas,1,Negada,0,187,213,142.9,1.19
+123,81,69,F,1,,65,,100,Negada,0,,,0,,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,"Positivo, caminata",1,154,143,111.9,0.84
+124,90,58,F,1,155,52,21.6,87,Negada,0,,,0,,Negadas,0,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,,,105.3,0.96
+141,87,56,F,1,160,68,26.6,91,Negada,0,,,0,,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,,,,
+138,80,54,F,1,150,60,26.7,87,"Positivo, 14 años de evolución",1,14, 14 años de evolución,1,Lisinopril,Negadas,0,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,216,195,103.2,0.79
+144,81,43,F,1,152,74,32,98,"Positiva, 4 años de evolución",1,4, 4 años de evolución,1,Losartán,Diabetes,1,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,"Positiva, gimnasio",1,,,,
+147,93,78,M,0,165,75,27.5,107,"Positiva, 12 años de evolución",1,12, 12 años de evolución,1,Losartán,Diabetes,1,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,"Positivo, caminata",1,,,203.5,0.98
+138,83,61,F,1,163,76,28.6,111,"Positiva, 3 años de evolución",1,3, 3 años de evolución,1,Amlodipino 5mg dos veces al día,Diabetes,1,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,"Positivo, caminata",1,,,,
+115,72,23,F,1,157,79,32,96,"Positiva, reciente diagnóstico",1,1, reciente diagnóstico,1,Desconocido,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,,,,
+156,92,66,F,1,153,71,30.3,93,"Positiva, 1 año de evolución",1,1, 1 año de evolución,1,Losartán,Diabetes,1,0,0,Negado,0,Negado,0,Negadas,0,"Positivo, caminata",1,,,,
+147,87,60,F,1,160,,,89,Negada,0,,,0,,Diabetes,1,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,"Positivo, caminata",1,,,,
+129,88,64,F,1,147,60,27.8,99,Negada,0,,,0,,Negadas,0,0,0,"Positivo, ocasional",1,"Positivo, ocasional",1,Negadas,0,Negada,0,260,226,98.8,
+134,89,49,F,1,158,78,31.2,109,Negada,0,,,0,,Negadas,0,0,0,"Positivo, ocasional",1,"Positivo, ocasional",1,Positivas,1,Negada,0,,,95.1,
+127,69,90,M,0,162,57,21.7,96,Negada,0,,,0,,Liver,0,0,1,Negado,0,"Positivo, sin especificaciones",1,Negadas,0,Negada,0,,,,
+154,102,55,M,0,164,73,27.1,93,Negada,0,,,0,,Negadas,0,0,0,Negado,0,Sin consumo desde los 18 años,0,Negadas,0,"Positiva, atletismo",1,,,96.4,
+135,63,58,M,0,170,,,93,Negada,0,,,0,,Diabetes,1,0,0,Negado,0,"Positivo, sin especificaciones",1,Negadas,0,Negada,0,,,291.5,
+128,84,57,F,1,,65,,100,Negada,0,,,0,,Negadas,0,0,0,"Positivo, ocasional",1,"Positivo, ocasional",1,Negadas,0,"Positiva, caminata",1,348,275,104.4,0.86
+138,101,63,M,0,,65,,96,En diagnóstico,2,,,0,Ninguno,Negadas,0,0,0,"Positivo, sin especificaciones",1,"Positivo, ocasional",1,Negadas,0,Negada,0,,168,109.5,1.11
+116,66,48,F,1,155,59,24.6,82,Negada,0,,,0,,Negadas,0,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,134,135,100.2,
+131,73,63,F,1,160,73.5,28.7,101,Negada,0,,,0,,IRC,0,1,0,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,225,212,111.2,
+162,87,60,F,1,157,78,31.6,,"Positiva, de evolución desconocida",1,99,desconocida,1,Losartán/ Metoprolol,Diabetes,1,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,132,195,109.2,
+127,84,65,F,1,,65,,101,"Positiva, 3 años de evolución",1,3, 3 años de evolución,1,Losartán,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,201,162,106.2,
+124,84,33,F,1,,95,,122,Negada,0,,,0,,Diabetes,1,0,0,"Positivo, ocasional",1,"Positivo, ocasional",1,Negadas,0,"Positiva, zumba",1,,,,
+120,92,55,F,1,154,80,33.7,102,"Positiva, 12 años de evolución",1,12, 12 años de evolución,1,Losartán,Diabetes,1,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,146,231,127.3,
+137,85,61,F,1,152,67,29,98,"Positiva, 12 años de evolución",1,12, 12 años de evolución,1,Enalapril,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,Positiva natación desde hace 12 años,1,164,255,121.5,0.91
+118,80,54,F,1,166,95,34.5,106,Negada,0,,,0,,Diabetes,1,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,161,155,195,0.88
+166,73,60,F,1,145,59,28.1,95,"Positivo, 17 años de evolución",1,17, 17 años de evolución,1,Hidroclorotiazida,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,"Positiva, caminata",1,286,256,97,
+117,72,,F,1,158,54,21.6,73,Negada,0,,,0,,Negadas,0,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,80,270,109.4,0.84
+159,114,51,M,0,168,80,28.3,97,"Positiva, 15 años de evolución",1,15, 15 años de evolución,1,Losartán,Negadas,0,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,432,233,106.8,
+129,96,44,M,0,175,100,32.7,119,Negada,0,,,0,,Negadas,0,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,235,232,89.8,
+154,98,46,M,0,175,74,24.2,99,"Positiva, 9 años de evolución",1,9, 9 años de evolución,1,Captorpil,Diabetes,1,0,0,Negado,0,Negado,0,Negadas,0,"Positiva, caminata",1,237,129,144.8,
+141,95,46,F,1,,79,,101,Negada,0,,,0,,Negadas,0,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,170,234,101.3,
+104,74,43,F,1,154,66,27.8,94,Negada,0,,,0,,Negadas,0,0,0,"Positivo, sin especificaciones",1,"Positivo, ocasional",1,Negadas,0,Negada,0,,,113.5,
+159,91,61,F,1,158,66,26.4,99,Negada,0,,,0,,,0,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,348,232,95.6,0.78
+138,73,72,F,1,,67,,98,"Positivo, 12 años de evolución",1,12, 12 años de evolución,0,,Diabetes,1,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,158,211,63.3,
+118,85,43,M,0,184,80,23.6,96,Negada,0,,,0,,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,125,217,,
+128,78,40,F,1,155,70,29.1,95,Negada,0,,,0,,Negadas,0,0,0,"Positivo, sin especificaciones",1,"Positivo, sin especificaciones",1,Positivas,1,"Positiva, caminata",1,200,141,117.9,0.79
+133,75,47,F,1,157,67,27.2,83,"Positivo, 8 años de evolución",1,8, 8 años de evolución,1,Captopril,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,136,165,,
+102,72,46,F,1,157,64,26,88,En diagnóstico,2,,,0,Ninguno,Diabetes,1,0,0,"Positivo, sin especificaciones",1,"Positivo, sin especificaciones",1,Negadas,0,"Positiva, caminata",1,150,213,172.6,
+111,75,72,F,1,,,,92,"Positiva, evolución desconocida",1,99,desconocida,1,Telmisartán/ Nifedipino,Diabetes,1,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,,,173.9,
+165,97,63,F,1,145,58,27.6,105,"Positiva, 11 años de evolución",1,11, 11 años de evolución,1,Enalapril/ Losartán,Diabetes,1,0,0,"Positivo, ocasional",1,"Positivo, ocasional",1,Negadas,0,Negada,0,227,184,145.7,0.74
+132,74,54,F,1,163,71,26.7,101,"Positiva, de reciente diagnóstico",1,1, de reciente diagnóstico,1,Losartán/ Metorpolol,Negadas,0,0,0,"Positivo, juventud",1,"Positivo, ocasional",1,Negadas,0,Negada,0,325,238,,
+128,71,80,F,1,,,,95,"Positiva, reciente diagnóstico",1,1, reciente diagnóstico,1,Propanolol,Diabetes,1,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,Negada,0,161,198,102.2,1.54
+244,149,82,F,1,,,,92,"Positiva, 20 años de evolución",1,20, 20 años de evolución,1,Desconocido,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,Negada,0,81,235,126.5,0.82
+132,98,88,M,0,180,86,26.5,96,Negada,0,,,0,,Diabetes,1,0,0,Negado,0,"Positivo, 20 años sin consumo",1,Negadas,0,"Positiva, caminata",1,473,256,171,0.6
+108,76,34,F,1,160,56,21.9,77,Negada,0,,,0,,Negada,0,0,0,Negado,0,Negado,0,Negadas,0,"Positiva, gimnasio",1,93.5,139.2,94.3,0.9
+120,81,49,F,1,160,80,31.3,100,Negada,0,,,0,,Metabolismo,0,0,1,Negado,0,Negado,0,Negadas,0,"Positiva, caminata",1,100,145.8,83.5,1
+133,84,63,F,1,158,65,26,81,"Positiva, reciente diagnóstico",1,1, reciente diagnóstico,1,Losartán,Negadas,0,0,0,Negado,0,Negado,0,Negadas,0,"Positiva, caminata",1,76.8,136.4,88.8,1.1
+120,80,32,M,0,179,70,21.8,79,Negada,0,,,0,,Negadas,0,0,0,Negado,0,"Positivo, ocasional",1,Negadas,0,"Positiva, entrenador",1,122.9,154.2,95.7,1.2
+130,83,30,M,0,,,,,Negada,0,,,0,,Negadas,0,0,0,Positivo,1,"Positivo, ocasional",1,Negadas,0,Negada,0,64,155,79,0.73
